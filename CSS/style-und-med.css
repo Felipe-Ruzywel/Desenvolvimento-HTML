@@ -1,0 +1,19 @@
+
+.vovo{
+    width: 100px;
+
+}
+.pai{
+        width:50vw;
+        height: 50vh; 
+        background: rgb(207, 12, 12);
+        color:#ff00ff;
+        font-size: 2em;
+    }
+        .filho{
+            width: 30%;
+            height: 30%;
+            background: blue;
+            color: #ffff00;
+            font-size: 0.5rem;
+        }

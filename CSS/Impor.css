@@ -1,0 +1,42 @@
+* 
+    {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        height: 200vh;
+        width: 200vw;
+    }
+.divdad
+    {
+        height: 350px;
+        width: 350px;
+        background-color: brown;
+        position: sticky;
+        margin: 200px;
+        top: 30px;
+        left: 30px;
+        bottom: 30px;
+        right: 30px;
+    }
+.divson
+    {
+        height: 150px;
+        width: 150px;
+        background-color: rgb(255, 255, 255);
+        position: sticky;
+        top: 30px;
+        left: 30px;
+        bottom: 30px;
+        right: 30px;
+        opacity: 50px;
+    }
+img
+    {
+        width: 60px;
+        height: 60px;
+        position: sticky;
+        top: 30px;
+        left: 30px;
+        bottom: 30px;
+        right: 30px;
+    }
